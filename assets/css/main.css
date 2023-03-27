@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: navy !important;
+			color: #5f4d93 !important;
 		}
 
 	strong, b {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px cornflowerblue;
+					border-top: solid 1px cornflowerblue;
 					display: block;
 					padding: 0;
 				}
